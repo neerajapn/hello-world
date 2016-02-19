@@ -1,2 +1,3 @@
 # hello-world
-just repository
+Hi,
+This is Neeraja. I'm from Kerala The God's own country.
